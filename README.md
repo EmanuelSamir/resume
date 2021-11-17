@@ -1,3 +1,4 @@
 # resume
-Latest resume - English version
-check on https://emanuelsamir.github.io/resume/
+Latest resume - English version \n
+
+Check on https://emanuelsamir.github.io/resume/
